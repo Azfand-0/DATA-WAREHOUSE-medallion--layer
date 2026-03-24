@@ -1,2 +1,2 @@
 # DATA-WAREHOUSE-medallion--layer
-[data_layers.pdf](https://github.com/user-attachments/files/26207931/data_layers.pdf)
+<img width="661" height="374" alt="K" src="https://github.com/user-attachments/assets/180d06c2-212d-42b9-a729-deedc246f14d" />
